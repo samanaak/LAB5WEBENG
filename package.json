@@ -1,0 +1,17 @@
+{
+  "name": "simple-assert-ok",
+  "version": "1.0.0",
+  "main": "student.js",
+  "type": "module",
+  "scripts": {
+    "LAB5": "babel ./student.js ./RegularStudent.js ExecutiveStudent.js ./n.js ./test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "simple-assert-ok": "^1.0.4"
+  },
+  "description": ""
+}
